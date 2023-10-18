@@ -1,0 +1,14 @@
+C:\WORK\VSPROJECTS\RefactorIfElse\bin\Debug\net6.0\RefactorIfElse.exe
+C:\WORK\VSPROJECTS\RefactorIfElse\bin\Debug\net6.0\RefactorIfElse.deps.json
+C:\WORK\VSPROJECTS\RefactorIfElse\bin\Debug\net6.0\RefactorIfElse.runtimeconfig.json
+C:\WORK\VSPROJECTS\RefactorIfElse\bin\Debug\net6.0\RefactorIfElse.dll
+C:\WORK\VSPROJECTS\RefactorIfElse\bin\Debug\net6.0\RefactorIfElse.pdb
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.AssemblyInfoInputs.cache
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.AssemblyInfo.cs
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.csproj.CoreCompileInputs.cache
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.dll
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\refint\RefactorIfElse.dll
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.pdb
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\RefactorIfElse.genruntimeconfig.cache
+C:\WORK\VSPROJECTS\RefactorIfElse\obj\Debug\net6.0\ref\RefactorIfElse.dll
